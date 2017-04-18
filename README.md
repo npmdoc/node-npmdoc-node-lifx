@@ -1,4 +1,7 @@
-# api documentation for  [node-lifx (v0.8.0)](https://github.com/MariusRumpf/node-lifx#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-node-lifx.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-node-lifx) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-node-lifx.svg)](https://travis-ci.org/npmdoc/node-npmdoc-node-lifx)
+# npmdoc-node-lifx
+
+#### api documentation for  [node-lifx (v0.8.0)](https://github.com/MariusRumpf/node-lifx#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-node-lifx.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-node-lifx) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-node-lifx.svg)](https://travis-ci.org/npmdoc/node-npmdoc-node-lifx)
+
 #### Node.js implementation of the LIFX protocol
 
 [![NPM](https://nodei.co/npm/node-lifx.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/node-lifx)

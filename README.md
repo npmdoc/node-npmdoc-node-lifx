@@ -1,6 +1,6 @@
 # npmdoc-node-lifx
 
-#### api documentation for  [node-lifx (v0.8.0)](https://github.com/MariusRumpf/node-lifx#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-node-lifx.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-node-lifx) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-node-lifx.svg)](https://travis-ci.org/npmdoc/node-npmdoc-node-lifx)
+#### basic api documentation for  [node-lifx (v0.8.0)](https://github.com/MariusRumpf/node-lifx#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-node-lifx.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-node-lifx) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-node-lifx.svg)](https://travis-ci.org/npmdoc/node-npmdoc-node-lifx)
 
 #### Node.js implementation of the LIFX protocol
 
@@ -78,7 +78,8 @@
         "report-coverage": "cat ./coverage/coverage.json | node_modules/codecov.io/bin/codecov.io.js",
         "test": "istanbul cover -root lib/ node_modules/mocha/bin/_mocha -- -u tdd -r babelhook --recursive test/unit/"
     },
-    "version": "0.8.0"
+    "version": "0.8.0",
+    "bin": {}
 }
 ```
 
